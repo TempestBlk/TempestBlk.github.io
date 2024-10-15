@@ -1,6 +1,9 @@
 ## Flutter Github Account Website Dev
 
 ### Commands for Deploying
+
+OR RUN "make deploy-web"
+
 flutter clean
 flutter pub get
 
